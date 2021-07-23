@@ -1,16 +1,11 @@
-# bluetooth_controller
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h1>Flutter Home Automation<h2>
+<p> Flutter home automation is a project combining the use of flutter and arduino</p>
+<p>The Flutter application handles a gui bluetooth controller which sends signals to the arduio bluetooth setup which controls lights and stepper motors</p>
+<p>This project currently controls only a window using a stepper motor</p>
+<h3><br><br>Screens from the page</h3>
+intro screen(splash screen)
+<img src="/images/splashscreen.jpg" alt="splashscreen">
+pair device
+<img src="/images/pair_device.jpg" alt="pair device image">
+Screenshot
+<img src="/images/screenshot.jpg" alt="frontpage">
