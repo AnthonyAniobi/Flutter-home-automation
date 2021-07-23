@@ -1,4 +1,4 @@
-<h1>Flutter Home Automation<h2>
+<h1>Flutter Home Automation</h1>
 <p> Flutter home automation is a project combining the use of flutter and arduino</p>
 <p>The Flutter application handles a gui bluetooth controller which sends signals to the arduio bluetooth setup which controls lights and stepper motors</p>
 <p>This project currently controls only a window using a stepper motor</p>
