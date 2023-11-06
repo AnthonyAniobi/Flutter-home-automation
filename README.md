@@ -25,11 +25,6 @@ https://drive.google.com/file/d/1aIhEJklTtjfjeB-30QW2-B6ZvfjeeV-g/view?usp=shari
 This project used
 The Flutter application handles a gui bluetooth controller which sends signals to the arduio bluetooth setup which controls lights and stepper motors
 
-<p>This project currently controls only a window using a stepper motor</p>
-<h3><br><br>Screens from the page</h3>
-<!-- <img src="/images/pair_device.jpg" alt="pair device image" width='100'>
-Screenshot -->
-
 ## Publications
 
 List of publications from this project
