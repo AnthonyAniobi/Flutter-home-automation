@@ -45,4 +45,6 @@ class BluetoothModel extends Equatable {
   @override
   List<Object?> get props =>
       [connected, connection, available, state, pairedDevices];
+
+  bool get isConnected => connected && (connection?.isConnected ?? false);
 }

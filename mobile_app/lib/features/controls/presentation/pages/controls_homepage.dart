@@ -8,7 +8,7 @@ class ControlsHomepage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: BtText.sp18('Controls'),
+        title: BtText.sp18('Custom Controls'),
       ),
     );
   }

@@ -10,3 +10,18 @@ class BtColor {
   static const Color yellow = Color(0xFFffb700);
   static const Color orange = Color(0xFFfb8500);
 }
+
+class BtShadow {
+  static List<BoxShadow> get light => [
+        BoxShadow(
+            offset: const Offset(2, 2),
+            blurRadius: 5,
+            color: Color(0x4F000000)),
+      ];
+  static List<BoxShadow> get medium => [
+        BoxShadow(
+            offset: const Offset(2, 2),
+            blurRadius: 5,
+            color: Color(0x8F000000)),
+      ];
+}

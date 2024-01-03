@@ -81,6 +81,7 @@ extension HtTextExtensions on Text {
 
   Text get white => copyWith(style: TextStyle(color: BtColor.white));
   Text get black => copyWith(style: TextStyle(color: BtColor.black));
+  Text get grey => copyWith(style: TextStyle(color: BtColor.grey));
   Text get blue => copyWith(style: TextStyle(color: BtColor.blue));
   Text get orange => copyWith(style: TextStyle(color: BtColor.orange));
   Text get yellow => copyWith(style: TextStyle(color: BtColor.yellow));

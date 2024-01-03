@@ -1,8 +1,8 @@
 part of 'bluetooth_bloc.dart';
 
-class BluetoothState extends Equatable {
+class BluetoothBlocState extends Equatable {
   final BluetoothModel model;
-  const BluetoothState(this.model);
+  const BluetoothBlocState(this.model);
 
   @override
   List<Object> get props => [model];

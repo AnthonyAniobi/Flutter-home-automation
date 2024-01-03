@@ -9,6 +9,15 @@ abstract class BluetoothEvent extends Equatable {
 
 // class RegisterListenerEvent extends BluetoothEvent {}
 
+class InitStateEvent extends BluetoothEvent {}
+
+class UpdateStateEvent extends BluetoothEvent {
+  final BluetoothState bluetoothState;
+  const UpdateStateEvent(this.bluetoothState);
+  @override
+  List<Object> get props => [bluetoothState];
+}
+
 class EnableBluetoothEvent extends BluetoothEvent {}
 
 class DisableBluetoothEvent extends BluetoothEvent {}

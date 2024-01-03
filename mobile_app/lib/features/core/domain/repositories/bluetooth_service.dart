@@ -46,6 +46,10 @@ class BluetoothService {
     FlutterBluetoothSerial.instance.onStateChanged().listen(event);
   }
 
+  // void scan() {
+  //   FlutterBluetoothSerial.instance.
+  // }
+
   Future<bool> sendMessage(
       BluetoothConnection connection, String message) async {
     try {
