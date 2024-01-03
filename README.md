@@ -36,3 +36,7 @@ List of publications from this project
 <img src="./images/mechanism_assembly.png" alt="assembly" height='300'>
 
 `feel free to use this project and the codes`
+
+
+## Future Updates
+- change `flutter_bluetooth_serial` to `flutter_blue`
