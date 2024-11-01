@@ -1,0 +1,10 @@
+#define rxPin 0
+#define txPin 1
+#define door1Pin 2
+#define door2Pin 3
+#define door3Pin 4
+#define door4Pin 5
+#define light1Pin 6
+#define light2Pin 7
+#define light3Pin 8
+#define light4Pin 9

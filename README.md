@@ -31,8 +31,24 @@ List of publications from this project
 
 - [Design and fabrication of model Automatic window in multipurpose halls](https://drive.google.com/file/d/1aIhEJklTtjfjeB-30QW2-B6ZvfjeeV-g/view?usp=sharing)
 
-<img src="./images/screenshot.jpg" alt="frontpage" height='300'>
-<img src="./images/scale_model.png" alt="scale model" height='300'>
-<img src="./images/mechanism_assembly.png" alt="assembly" height='300'>
+### Hardware Setup
+<img src="https://res.cloudinary.com/aniobi/image/upload/v1730296439/hardware_projects/flutter_home_automation/flutter_home_automation1.png" height='300'>
+<img src="https://res.cloudinary.com/aniobi/image/upload/v1730296439/hardware_projects/flutter_home_automation/flutter_home_automation2.png" height='300'>
+<img src="https://res.cloudinary.com/aniobi/image/upload/v1730296439/hardware_projects/flutter_home_automation/flutter_home_automation3.png" height='300'>
+
+### Mobile Application
+<img src="https://res.cloudinary.com/aniobi/image/upload/v1730296439/hardware_projects/flutter_home_automation/flutter_home_automation4.png" height='300'>
+<img src="https://res.cloudinary.com/aniobi/image/upload/v1730296439/hardware_projects/flutter_home_automation/flutter_home_automation5.png" height='300'>
+<img src="https://res.cloudinary.com/aniobi/image/upload/v1730296439/hardware_projects/flutter_home_automation/flutter_home_automation6.png" height='300'>
+
+### Prototype Structure
+<img src="https://res.cloudinary.com/aniobi/image/upload/v1730296439/hardware_projects/flutter_home_automation/flutter_home_automation7.png" height='300'>
+<img src="https://res.cloudinary.com/aniobi/image/upload/v1730296439/hardware_projects/flutter_home_automation/flutter_home_automation8.png" height='300'>
+
+
 
 `feel free to use this project and the codes`
+
+
+## Future Updates
+- change `flutter_bluetooth_serial` to `flutter_blue`
